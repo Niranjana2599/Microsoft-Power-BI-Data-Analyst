@@ -29,6 +29,4 @@ Includes a practical project applying the concepts covered throughout the course
 - Data organization and transformation
 - Integration of data for Power BI analysis
 
-This course builds a strong foundation in Excel, essential for progressing in data analysis using Microsoft Power BI.
-
 ---
